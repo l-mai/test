@@ -11,3 +11,15 @@
     align-items: center;
     margin: 50px auto;
 }
+
+.rectangle { 
+    height: 100px;
+    width: 200px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    color: white;
+    border: 5px solid red;
+}
